@@ -36,6 +36,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/851
     wikipedia: http://en.wikipedia.org/wiki/George_Sand
 description: See also PG#12816 tr. by George B. Ives
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21993#The-Devil-s-Pool
 gutenberg_bookshelf: Harvard Classics
 gutenberg_issued: '2007-07-04'
 gutenberg_type: Text
