@@ -1,0 +1,52 @@
+_repo: The-Devil-s-Pool_21993
+_version: 0.1.0
+alternative_title: La mare au diable. English
+contributor:
+  illustrator:
+    agent_name: Abot, Eugène-Michel-Joseph
+    aliases:
+    - Abot, E. (Eugène)
+    - Abot, Eugene-Michel-Joseph
+    birthdate: 1836
+    deathdate: 1894
+    gutenberg_agent_id: '25018'
+    url: http://www.gutenberg.org/2009/agents/25018
+  translators:
+  - agent_name: Sedgwick, Ellery
+    birthdate: 1872
+    deathdate: 1960
+    gutenberg_agent_id: '31539'
+    url: http://www.gutenberg.org/2009/agents/31539
+  - agent_name: Sedgwick, Jane Minot
+    gutenberg_agent_id: '25017'
+    url: http://www.gutenberg.org/2009/agents/25017
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sand, George
+    aliases:
+    - Dudevant, Amandine-Aurore-Lucile
+    - Dupin, Armandine Aurore Lucille
+    - Dupin, Amandine-Aurore-Lucile
+    birthdate: 1804
+    deathdate: 1876
+    gutenberg_agent_id: '851'
+    url: http://www.gutenberg.org/2009/agents/851
+    wikipedia: http://en.wikipedia.org/wiki/George_Sand
+description: See also PG#12816 tr. by George B. Ives
+gutenberg_bookshelf: Harvard Classics
+gutenberg_issued: '2007-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21993'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pastoral fiction, French'
+- !lcc 'PQ'
+title: The Devil's Pool
+url: http://www.gutenberg.org/ebooks/21993
